@@ -3,9 +3,9 @@ TEAM NAME:
 Guru's Disciples
 
 TEAM MEMBERS:
-Akshat Sharma - PES2UG25CS046
-Aaditya Prakash - PES2UG25CS003
-A Abilash - PES2UG25CS001
+Akshat Sharma - PES2UG25CS046,
+Aaditya Prakash - PES2UG25CS003,
+A Abilash - PES2UG25CS001,
 Aditya - PES2UG25CS033
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
